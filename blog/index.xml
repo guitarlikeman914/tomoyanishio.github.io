@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Tomoya Nishio Official Website</title>
+    <link>https://www.tomoyanishio.com/blog/</link>
+    <description>Recent content in Blog on Tomoya Nishio Official Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 17 Apr 2022 05:41:07 +0600</lastBuildDate><atom:link href="https://www.tomoyanishio.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>５月２７日（金）渋谷でワンマンライブをやります！</title>
+      <link>https://www.tomoyanishio.com/blog/20220417live/</link>
+      <pubDate>Sun, 17 Apr 2022 05:41:07 +0600</pubDate>
+      
+      <guid>https://www.tomoyanishio.com/blog/20220417live/</guid>
+      <description>５月２７日（金）にワンマンライブが決定！ 詳細は以下の通りになりますので、チケットのご予約をご希望の方は下記までご連絡くだ</description>
+    </item>
+    
+    <item>
+      <title>親菜瓜男「大根仙人」他、サブスクリプションでの配信を始めました！</title>
+      <link>https://www.tomoyanishio.com/blog/20220417streaming/</link>
+      <pubDate>Sun, 17 Apr 2022 04:41:07 +0600</pubDate>
+      
+      <guid>https://www.tomoyanishio.com/blog/20220417streaming/</guid>
+      <description>親菜瓜男の代表曲「大根仙人」をはじめ、過去にリリースした作品がサブスクリプションから配信開始！ Spotify、Apple</description>
+    </item>
+    
+  </channel>
+</rss>

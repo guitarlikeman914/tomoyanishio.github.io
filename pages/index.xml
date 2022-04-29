@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Tomoya Nishio Official Website</title>
+    <link>https://www.tomoyanishio.com/pages/</link>
+    <description>Recent content in Pages on Tomoya Nishio Official Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language><atom:link href="https://www.tomoyanishio.com/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>YouTube で楽曲を公開しています！</title>
+      <link>https://www.tomoyanishio.com/pages/songs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomoyanishio.com/pages/songs/</guid>
+      <description>.palent { text-align: center; display: flex; justify-content: space-between; flex-wrap: wrap; width:700px; margin: 0px auto; } .child { text-align: center; width: 350px; } .child iframe { width: 320px; height: 180px; } .video_title { padding-top: 15px; padding-bottom: 10px; text-align: center; font-weight: bold; font-size: 22px; } @media screen and (max-width: 600px) { .palent { text-align: center; display: flex; justify-content: space-between; flex-wrap: wrap; width:400px;</description>
+    </item>
+    
+    <item>
+      <title>ギターレッスン募集中！</title>
+      <link>https://www.tomoyanishio.com/pages/lesson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomoyanishio.com/pages/lesson/</guid>
+      <description>随時、生徒さんを募集します！ 場所 東京 中野駅近郊スタジオ 料金 １時間 5000円（スタジオ代込み） マンツーマン形式 以下の内容に</description>
+    </item>
+    
+    <item>
+      <title>ディスコグラフィ</title>
+      <link>https://www.tomoyanishio.com/pages/discography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomoyanishio.com/pages/discography/</guid>
+      <description>アルバム シングル</description>
+    </item>
+    
+  </channel>
+</rss>
