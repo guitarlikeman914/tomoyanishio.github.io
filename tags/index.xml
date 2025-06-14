@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Tomoya Nishio Official Website</title>
-    <link>https://www.tomoyanishio.com/tags/</link>
+    <link>https://tomoyanishio.com/tags/</link>
     <description>Recent content in Tags on Tomoya Nishio Official Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <atom:link href="https://www.tomoyanishio.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tomoyanishio.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
